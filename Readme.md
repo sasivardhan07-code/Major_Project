@@ -15,7 +15,7 @@ To Design and implement a real-time vehicle monitoring system using CAN protocol
 
 # ⚙️System Architecture
 
-![4](https://github.com/user-attachments/assets/89c7d1eb-3844-47be-b905-c1295d6707ed)
+
 
 # 🧠Project Nodes
 1️⃣ Main (Dashboard) Nodes
