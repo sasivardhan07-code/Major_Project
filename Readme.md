@@ -14,6 +14,7 @@ To Design and implement a real-time vehicle monitoring system using CAN protocol
 * Airbag activation
 
 # ⚙️System Architecture
+![4](https://github.com/user-attachments/assets/60751582-ad98-49fa-97f6-3f325de11b43)
 
 
 
